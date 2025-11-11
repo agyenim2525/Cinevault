@@ -1,0 +1,5 @@
+{
+  "name": "CineVault",
+  "description": "An elegant web application for administrators to upload movie files and for users to browse and initiate downloads, featuring a sleek, modern interface with smooth animations.",
+  "requestFramePermissions": []
+}
